@@ -1,0 +1,68 @@
+Vicky Kumar Sharma
+ Software Engineer .NET                                           
+Kolkata
++91-999999999
+xyz@gmail.com
+Professional Summary 
+Detail-oriented Software Engineer .NET with 7+ years of expertise in designing, developing, and maintaining ERP systems and business-critical applications for Manufacturing, Food & Beverage, and Safety industries. Proficient in ASP.NET MVC (C#), ASP.NET Web API and 3-tier architecture, with a focus on creating scalable, secure, and efficient solutions. Skilled in problem-solving, optimizing performance, and rapidly adapting to new challenges and environments. Strong background in agile software development, database management, and cloud technologies. Committed to continuous learning and staying current with industry trends to drive business success and support team goals through technology-enabled solutions. Looking to obtain a position in a progressive and competitive organization that will provide growth and opportunities to utilize my present technical and interpersonal skills for the growth of company and self.
+TECHNICAL SKILLS 
+Programming Languages:
+C#, JavaScript, SQL, LINQ (Language-Integrated Query)
+Frameworks & Libraries:
+ASP.NET, ASP.NET Core, ADO.NET, Entity Framework, jQuery, Bootstrap, Lambda Expressions, React, familiar with RabbitMQ, Unit Testing
+Web Technologies:
+RESTful APIs, Web API, HTML5, CSS3, AJAX
+Databases:
+MS SQL Server, T-SQL, Database Design, Stored Procedures, Performance Tuning
+Cloud & DevOps:
+Microsoft Azure, Azure DevOps, familiar with CI/CD concepts, familiar with Docker and Kubernetes and Jenkins.
+Version Control & Tools:
+Git, Bitbucket, Jira, TFS (Team Foundation Server), Visual Studio, Visual Studio Code, Copilot.
+Reporting Tools & Charts:
+DevExpress, Google Charts, Fusion Charts
+Methodologies:
+Agile (Scrum, Kanban), Test-Driven Development (TDD), familiar with Continuous Delivery
+EXPERIENCE 
+Indusnet Technology Pvt Limited - Software Engineer .NET                                           07/2021 – Current
+Project: SOMAX Delivery management system
+Contributed & led new functionality implementation in Application –Multi Approval Level, Personnels, Work Order Planning, Project, Purchase Request Auto Generation, Web API for Monnit sensor data import & export and other modules.
+Contributed in Responsive Mobile View Implement in dashboard for workbench module using Mobiscroll, Dynamic UI configuration in Work Request and Equipment and Dev express Reporting, Dev express QR & BAR code generation, Reports, implementation for Printing the work order and created documentation for some feature.
+Involved in cross Team collaboration like QA team and design team.
+Handling R & D of New Feature Implementation and used co-pilot in project for efficiency and time saving.
+Contributed in optimization and creation of Store Procedure, table and user defined function etc. in database
+Developed reusable/common function and classes and also optimized the code followed best practices.
+Frequently used azure DevOps and azure portal for project related requirements.
+Involved in deployment process and client's communication.
+Assisted in the recruitment and training of new team members, building a highly skilled and motivated software engineering team.
+Facilitated knowledge-sharing sessions among junior engineers, fostering a collaborative and innovative work environment.
+Quick Innovative Technologies - Senior ASP.NET Developer                                            06/2019 - 05/2021
+Projects: Visitor Management System, Audit Management System, Warehouse Management System, Batch Management System, Bus Management System, Truck Management System, Tag Management System etc.
+Undertook the responsibility of designing the project and database architecture from the ground up, while also creating detailed documentation
+Played a crucial role in the project's development, testing, error handling, and client communication processes
+Contributed to the design of the pages and establishing connections with data sources.
+Participated in code reviews, upholding high standards of quality and promoting best practices among the development team.
+Utilised Agile methodologies to manage project lifecycles, ensuring timely delivery of features and bug fixes.
+Optimised existing software applications for improved performance and scalability, ensuring compatibility with evolving technologies.
+Led the design, coding, and testing of new software applications, consistently delivering projects within tight deadlines.
+Managed version control using Git, contributing to streamlined development processes and team collaboration.
+Provided technical mentorship to junior developers, fostering a culture of continuous learning and improvement.
+Led the migration of legacy systems to ASP.NET MVC framework, significantly improving system efficiency and scalability.
+Managed API integration, ensuring proper handling of SMS delivery and error responses, resulting in a 95% delivery success rate.
+
+
+
+Techway - Asp.net Developer                                                                                             06/2016 - 07/2019
+Projects: Attendance System, Bsafe Application, Patient Care Management system, Birthday wishing Application, Changeover Application, Guard checklist Application etc.
+Created mobile friendly charts and graphs for dashboard using google chart and fusion chart
+Conducted thorough testing and debugging of web applications to ensure reliability, usability, and compatibility across multiple browsers.
+Facilitated user training sessions on new web applications, ensuring smooth adoption and reducing support requests.
+Delivered detailed documentation on development processes, code, and user guides, ensuring knowledge transfer and maintainability.
+Integrated third-party APIs to extend web application functionalities, including payment gateways, social media, and other services (SMS services integration).
+Utilised AJAX and jQuery to create dynamic, interactive web pages that improved customer engagement and satisfaction.
+Developed and deployed robust ASP.NET web applications to enhance user experiences and meet client specifications.
+Optimised web applications for mobile devices, ensuring responsive design and seamless user experiences across all platforms. Utilised JavaScript, HTML, and CSS to create interactive and visually appealing web pages.
+Documented development processes, creating comprehensive guides for future maintenance and updates.
+EDUCATION 
+B.Tech in Electronics and Communication Engineering, Maulana Abul Kalam Azad University of Technology (formerly WBUT) , 2016 | Percentage: 65.19%
+Higher Secondary, West Bengal Board of Secondary Higher Education, 2011 | Percentage: 66.00%
+Secondary, West Bengal Board of Secondary Education, 2009 | Percentage: 73.23%
